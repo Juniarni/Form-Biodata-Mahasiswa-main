@@ -7,7 +7,7 @@
     <title>Tampilan Biodata</title>
     <style>
         body {
-            background: url("https://i.ytimg.com/vi/szGWR5ErgYo/maxresdefault.jpg");
+            background: url("https://i.pinimg.com/736x/f8/e3/95/f8e395b6785428be9450d570bf48bf09.jpg");
             background-size: cover;
             color: white;
         }

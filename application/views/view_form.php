@@ -7,7 +7,7 @@
     <title>Form Biodata</title>
     <style>
 body {
-            background: url("https://img.freepik.com/free-photo/sunset-silhouettes-trees-mountains-generative-ai_169016-29371.jpg?t=st=1713869659~exp=1713873259~hmac=b729f48751331006d8cf22eb1d7e366aaa3cd79052f1f4da60f9d5c6fbdd5f45&w=1060");
+            background: url("https://i.pinimg.com/736x/67/33/8b/67338b14a8a7adb84d656b5b1d2f12e0.jpg");
             background-size: cover;
             color: white;
         }
